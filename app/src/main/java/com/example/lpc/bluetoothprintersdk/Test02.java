@@ -6,4 +6,6 @@ package com.example.lpc.bluetoothprintersdk;
 
 public class Test02 {
     //分支测试 002
+
+    //分支000已合并分支002    并上传至自己的分支000
 }
